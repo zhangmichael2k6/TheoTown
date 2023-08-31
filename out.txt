@@ -1,0 +1,495 @@
+info.flowersoft.theotown.theotown 1.11.17p (11117) Windows 10 10.0
+[GameStack] Bind stage LoadingStage
+[GameStack] Prepare stage LoadingStage
+[Backend] Run task user/events.php
+[Backend] Run task user/purchases.php
+[MPC] DSA Game Integration (7): 107 - 107 
+[MPC] Diagonal road (14): 2 - 2 
+[MPC] Mexican Road System 2.2 (20): 9 - 9 
+[MPC] The National Monument (67): 3 - 3 
+[MPC] Tramway (83): 8 - 8 
+[MPC] Galeries Lemaire (125): 4 - 4 
+[MPC] Au Primtemps, Paris. (127): 2 - 2 
+[MPC] Courthouse (128): 5 - 5 
+[MPC] Centre Pompidou, Paris. (129): 2 - 2 
+[MPC] Placeable beach tiles (141): 3 - 3 
+[MPC] Military Airbase! (152): 7 - 7 
+[MPC] Nature Pack (154): 13 - 13 
+[MPC] Airport detail pack (update) (157): 9 - 9 
+[MPC] Torres Kio, Madrid. (162): 3 - 3 
+[MPC] Blue ocean (186): 13 - 13 
+[MPC] Modern House (199): 2 - 2 
+[MPC] First Canadian Place TTT (222): 3 - 3 
+[MPC] Modern residential pack (227): 3 - 3 
+[MPC] Small Commercial Pack (231): 7 - 7 
+[MPC] UOB Plaza Jakarta (234): 2 - 2 
+[MPC] Piccadilly Circus (282): 6 - 6 
+[MPC] The Pakubuwono Signature (309): 3 - 3 
+[MPC] Big cars park (315): 2 - 2 
+[MPC] Aircraft integration package (325): 9 - 9 
+[MPC] Bank of Dalone tower (358): 3 - 3 
+[MPC] Ferris Wheel (359): 3 - 3 
+[MPC] Habitat Sky (422): 2 - 2 
+[MPC] Filipino Building Pack 2 (431): 2 - 2 
+[MPC] Filipino Building Pack 4 (456): 2 - 2 
+[MPC] Costless Invisible Road (471): 2 - 2 
+[MPC] M.L.I.C Building, NYK (1909). (518): 8 - 8 
+[MPC] Equatorial Plaza, Kuala Lumpur (519): 3 - 3 
+[MPC] Institute Of Modern Arts (540): 2 - 2 
+[MPC] road sign (571): 4 - 4 
+[MPC] Environmental Expansion Pack (584): 2 - 2 
+[MPC] Modular sewage treatment plant (614): 3 - 3 
+[MPC] Slow Traffic Package 2.6 (707): 62 - 62 
+[MPC] Tokyo Imperial Theatre (723): 6 - 6 
+[MPC] traffic circle(roundabout) (729): 3 - 3 
+[MPC] commercial package (730): 3 - 3 
+[MPC] Guangzhou Poly Center (787): 6 - 6 
+[MPC] Osaka Plaza (801): 5 - 5 
+[MPC] CTF Finance Center[zh]??????? (802): 8 - 8 
+[MPC] Waterfall (826): 13 - 13 
+[MPC] Air purifier (827): 3 - 3 
+[MPC] Jet d'Eau (829): 2 - 2 
+[MPC] (easy) parking lot (834): 8 - 8 
+[MPC] Ilham Baru Tower (851): 2 - 2 
+[MPC] TV broadcasting station (859): 3 - 3 
+[MPC] Vilnius Municipality Building (869): 11 - 11 
+[MPC] Modern Crematorium (872): 5 - 5 
+[MPC] Tecnalia Ind. Convention Cente (876): 4 - 4 
+[MPC] China Zun Tower[zh]??????? (915): 5 - 5 
+[MPC] Sky Tower (936): 5 - 5 
+[MPC] MODERN AIRPORT (UPDATE) (941): 12 - 12 
+[MPC] Four Seasons Place KL (update) (943): 5 - 5 
+[MPC] New Cars 4U City[zh]??3???? (963): 7 - 7 
+[MPC] More Fence V.5.0[zh]?5?????V5 (980): 12 - 12 
+[MPC] Boreal Tower v.01 (995): 6 - 6 
+[MPC] Core integration (998): 67 - 67 
+[MPC] Club Center (1078): 2 - 2 
+[MPC] Bio energy power plant (1114): 4 - 4 
+[MPC] Geothermal power plant (1116): 2 - 2 
+[MPC] Allianz Parque Stadium (1140): 3 - 3 
+[MPC] Amazon Theatre (1156): 3 - 3 
+[MPC] Grand Casino (1179): 4 - 4 
+[MPC] Amphitheater (1203): 10 - 10 
+[MPC] Werty center tower (1207): 13 - 13 
+[MPC] Tour Geneve Complex (1208): 6 - 6 
+[MPC] Brazilian Residential Pack (1227): 35 - 35 
+[MPC] Art Gallery[zh]??? (1298): 5 - 5 
+[MPC] Logistics Company (1299): 3 - 3 
+[MPC] Petrobras Headquarters (1311): 6 - 6 
+[MPC] Liede Bridge (1314): 2 - 2 
+[MPC] Upside down house (1327): 2 - 2 
+[MPC] Five-Story Pagoda[zh]??? (1328): 5 - 5 
+[MPC] CM Bank Global Headquarters (1339): 3 - 3 
+[MPC] Copacabana Pack 2 (1343): 6 - 6 
+[MPC] Walking street (1347): 2 - 2 
+[MPC] Wavin' flags (1363): 33 - 33 
+[MPC] space center (1371): 3 - 3 
+[MPC] Nanning CR Tower[zh]?????? (1385): 4 - 4 
+[MPC] Puerta del Sol (1394): 2 - 2 
+[MPC] Seoul Forest Trimage (Remake) (1409): 2 - 2 
+[MPC] Japanese building plugin V2 (1421): 8 - 8 
+[MPC] China Modern Office Building (1430): 7 - 7 
+[MPC] China Energy Storage Tower (1435): 11 - 11 
+[MPC] Great Wild Goose Pagoda (1436): 3 - 3 
+[MPC] TPC STUDIO Update (1448): 5 - 5 
+[MPC] MetLife Stadium (1469): 2 - 2 
+[MPC] Ho Chi Minh Museum (1475): 4 - 4 
+[MPC] Tekal Tower[zh]????? (1483): 4 - 4 
+[MPC] KK 100 Tower (1488): 3 - 3 
+[MPC] Landmark 81 (1489): 13 - 13 
+[MPC] Shanghai Kerry Centre (1527): 4 - 4 
+[MPC] Guanabara Palace (1531): 6 - 6 
+[MPC] Ping'an Center South Tower (1544): 7 - 7 
+[MPC] Theo Aquarium (1561): 2 - 2 
+[MPC] La Bombonera (1576): 4 - 4 
+[MPC] 4x4 Modern Apartment Pack (1618): 3 - 3 
+[MPC] Praça da Fonte (1682): 2 - 2 
+[MPC] Turtle tower (1695): 8 - 8 
+[MPC] Metropolitan Tower (1702): 22 - 22 
+[MPC] The statue of Ponnie (1703): 2 - 2 
+[MPC] Cat Hand Lakes (1710): 2 - 2 
+[MPC] Eid Mubarak Park (1751): 2 - 2 
+[MPC] Ferris Wheel (1764): 2 - 2 
+[MPC] Baseball Pack (1765): 2 - 2 
+[MPC] AnimeStoreCanterV1 (1780): 2 - 2 
+[MPC] Palácio Rio Branco (1783): 4 - 4 
+[MPC] Brazilian Commercial Pack (1789): 8 - 8 
+[MPC] Natural Pillars (1824): 3 - 3 
+[MPC] Merlion statue (1856): 4 - 4 
+[MPC] Avenida Atlântica Pack (1864): 5 - 5 
+[MPC] Palace of Justice (1865): 3 - 3 
+[MPC] Monorail (Straddle-Beam) v290 (1867): 9 - 9 
+[MPC] Residential Package vol 2 (1904): 2 - 2 
+[MPC] In-Game Clock (1931): 8 - 8 
+[MPC] FBP 7A: Filipino Suburb Pack (1936): 2 - 2 
+[MPC] Casa Rosada (1956): 5 - 5 
+[MPC] Modern Houses Pack I (1984): 3 - 3 
+[MPC] USSR Style Apartmen[zh]?????? (2003): 4 - 4 
+[MPC] Centro do Rio Pack 2 (2017): 5 - 5 
+[MPC] Times Square Pack (2035): 3 - 3 
+[MPC] Coke Factory (2068): 6 - 6 
+[MPC] Maldivas Resort (2073): 2 - 2 
+[MPC] Tropical Hotel (2076): 5 - 5 
+[MPC] Al Tijaria Tower (2088): 3 - 3 
+[MPC] IFC Seoul (2143): 2 - 2 
+[MPC] Edificio España, Madrid (2147): 4 - 4 
+[MPC] Roadside Trees (2150): 4 - 4 
+[MPC] ADMIRALTY SHIP PACK! (2171): 5 - 5 
+[MPC] Smart Araneta Coliseum/BigDome (2185): 6 - 6 
+[MPC] Trump Int'l Hotel Panama (2221): 2 - 2 
+[MPC] Intempo Skyscraper (2224): 5 - 5 
+[MPC] Malacañang Palace (2227): 2 - 2 
+[MPC] Chris Yu Bay Hotel & Beach (2229): 2 - 2 
+[MPC] Nessie (2233): 2 - 2 
+[MPC] Barcelona Pack (2244): 3 - 3 
+[MPC] Hungarian auto club HQ (2257): 2 - 2 
+[MPC] Rio de Janeiro Pack (2264): 11 - 11 
+[MPC] The Pantheon, Rome, Italy (2271): 2 - 2 
+[MPC] Hassan II Mosque (2293): 3 - 3 
+[MPC] One University (2317): 3 - 3 
+[MPC] 4Torres de Madrid (with Monte) (2332): 3 - 3 
+[MPC] Among Us Statue (2346): 2 - 2 
+[MPC] Harbin Ski Facility[zh]?????? (2363): 3 - 3 
+[MPC] Palacio Real, Madrid, Spain. (2459): 2 - 2 
+[MPC] Dream Cruise (2477): 9 - 9 
+[MPC] Symphony of the Seas (2490): 2 - 2 
+[MPC] Qinhai Finance Center (2542): 7 - 7 
+[MPC] Leadenhall building (2600): 3 - 3 
+[MPC] Modern house part 2 (2614): 2 - 2 
+[MPC] Beautiful Park (2621): 3 - 3 
+[MPC] Beautiful parks part 2 (2666): 2 - 2 
+[MPC] Round Marina (2682): 16 - 16 
+[MPC] Morocco telecom (2694): 4 - 4 
+[MPC] 375 pearl st (2721): 2 - 2 
+[MPC] Luxurious Marina (2734): 26 - 26 
+[MPC] Hong Kong TWO IFC (2738): 4 - 4 
+[MPC] Ayala Triangle Buildings Pack (2739): 3 - 3 
+[MPC] Recycling center (2752): 50 - 50 
+[MPC] Public Library (v1.0) (2762): 2 - 2 
+[MPC] Theatro Adolpho Mello (2781): 2 - 2 
+[MPC] Madero Office, Buenos Aires (2792): 2 - 2 
+[MPC] E & W - Storage (2812): 6 - 6 
+[MPC] RS Residential Pack (2819): 6 - 6 
+[MPC] Versailles Garden (2822): 2 - 2 
+[MPC] Tesla Factory (2823): 5 - 5 
+[MPC] Gift of the Aliens ? (2846): 2 - 2 
+[MPC] Versailles Garden part 2 (2849): 2 - 2 
+[MPC] Oil rig (2855): 2 - 2 
+[MPC] CCP Theater (2877): 2 - 2 
+[MPC] New Tokyo City Hall[zh]??????? (2881): 4 - 4 
+[MPC] Tri-bowl (2913): 8 - 8 
+[MPC] Guggenheim museum bilbao (2914): 2 - 2 
+[MPC] Yu Tower Residences (2919): 2 - 2 
+[MPC] City Of Dreams (Manila) (2928): 5 - 5 
+[MPC] New Clark Aquatic Center (2929): 2 - 2 
+[MPC] Seobina Baseball Stadium (2960): 2 - 2 
+[MPC] Pipes under roads (2961): 10 - 10 
+[MPC] Trump Tower Manila (2981): 6 - 6 
+[MPC] Seagram building (2984): 2 - 2 
+[MPC] Burj Khalifa (3014): 3 - 3 
+[MPC] Torre Ciudadana Monterrey (3027): 3 - 3 
+[MPC] the Lake Parks (3040): 9 - 9 
+[MPC] Gothic Cathedral (3043): 6 - 6 
+[MPC] NEW TOWN PACK (3092): 4 - 4 
+[MPC] Seobina University Hospital (3104): 2 - 2 
+[MPC] Torre de Belém[zh]?????? (3133): 2 - 2 
+[MPC] Wires under roads (3143): 6 - 6 
+[MPC] Ankerto Tower (3157): 2 - 2 
+[MPC] Various USA styled buildings (3180): 15 - 15 
+[MPC] Small building (3183): 6 - 6 
+[MPC] Palácio Tiradentes (3308): 3 - 3 
+[MPC] Plum Blossom (3313): 2 - 2 
+[MPC] Compact Radio Station (3323): 8 - 8 
+[MPC] Tower Bridge (London) (3328): 5 - 5 
+[MPC] Katori's Pagoda (3368): 13 - 13 
+[MPC] Crystal Tower (3371): 18 - 18 
+[MPC] Katori commercial tower 1 (3376): 15 - 15 
+[MPC] Pagoda Pack (3382): 44 - 44 
+[MPC] songdo posco tower (3385): 4 - 4 
+[MPC] AmericanAirlines Center-Dallas (3386): 3 - 3 
+[MPC] Modern Stadium (3393): 5 - 5 
+[MPC] Giant Stadium (3397): 24 - 24 
+[MPC] Community House (3418): 5 - 5 
+[MPC] Homeland-Mother Is Calling! (3424): 8 - 8 
+[MPC] Commercial building pack (3432): 11 - 11 
+[MPC] Giant Ferris Wheel (3435): 24 - 24 
+[MPC] President Ho Chi Minh Monument (3436): 3 - 3 
+[MPC] Ho Chi Minh Mousoleum (3442): 10 - 10 
+[MPC] Plaza de Armas de Lima, Perú (3446): 3 - 3 
+[MPC] The Bridge (3448): 5 - 5 
+[MPC] Torch Pillars (3456): 9 - 9 
+[MPC] Silver Electric Building (3458): 6 - 6 
+[MPC] Hanoi Landmark-72 Complex (3461): 10 - 10 
+[MPC] Soviet Buildings Pack (3490): 3 - 3 
+[MPC] Animated trees (3494): 12 - 12 
+[MPC] 2 twin werty central park (3503): 3 - 3 
+[MPC] Shinto shrine v2 (3522): 5 - 5 
+[MPC] Centro Cultural Kirchner (3528): 3 - 3 
+[MPC] Aduana Buenos Aires (3542): 3 - 3 
+[MPC] Museums and flower beds (3558): 4 - 4 
+[MPC] Modular Green Roof Schools (3577): 8 - 8 
+[MPC] Torre BankBoston (3586): 3 - 3 
+[MPC] Sky Forest Building (3595): 21 - 21 
+[MPC] Ten-Storey Pagoda (3603): 11 - 11 
+[MPC] Alimas Building[zh]?????? (3605): 3 - 3 
+[MPC] Waste To Energy Plant (3608): 26 - 26 
+[MPC] Sim's Lighthouse (3618): 22 - 22 
+[MPC] Gelora Bung Karno (3625): 8 - 8 
+[MPC] Paradise Hotel (3630): 26 - 26 
+[MPC] Fertilizer Factory (3646): 12 - 12 
+[MPC] One-Pillar Pagoda (3653): 5 - 5 
+[MPC] Flower Park (3662): 8 - 8 
+[MPC] MetLife Building (3685): 2 - 2 
+[MPC] Big hospital (3688): 22 - 22 
+[MPC] Vista Tower (3692): 5 - 5 
+[MPC] Shinjuku Building Pack[zh]???? (3704): 2 - 2 
+[MPC] Police Headquarter (3711): 12 - 12 
+[MPC] Westcoast Bank[zh]????? (3719): 2 - 2 
+[MPC] WORLD MAP PARK (3720): 18 - 18 
+[MPC] Spizma Towers (3723): 2 - 2 
+[MPC] 50's Soviet Buildings Pack (3727): 2 - 2 
+[MPC] Hi-rise Residential Building A (3729): 2 - 2 
+[MPC] Hi-rise Residential Building B (3730): 4 - 4 
+[MPC] Sara StreetLights & Signs (3733): 3 - 3 
+[MPC] Shinjuku Skyscrapers (3734): 14 - 14 
+[MPC] Munich New City Hall (3736): 3 - 3 
+[MPC] Japanese Tower (3746): 4 - 4 
+[MPC] Viettel Headquarter (New) (3754): 18 - 18 
+[MPC] Sky Forest Building 2 (3775): 14 - 14 
+[MPC] Louvre (3798): 9 - 9 
+[MPC] Oriental Researchs Pack (3808): 13 - 13 
+[MPC] Medical School (3832): 16 - 16 
+[MPC] Cuscatlán Tower (3845): 10 - 10 
+[MPC] Fire Headquarters (3859): 8 - 8 
+[MPC] The Coles Memorial Clock Tower (3871): 3 - 3 
+[MPC] SaiGon Time Square (3897): 8 - 8 
+[MPC] Shanghai Tower(TCPS)[zh]?????? (3924): 2 - 2 
+[MPC] HighwayV1.1 (3952): 5 - 5 
+[MPC] The Office Buildings (3978): 2 - 2 
+[MPC] Suzhou Zhongnan Center[zh]???? (4051): 4 - 4 
+[MPC] Shibuya stream (4088): 7 - 7 
+[MPC] Meridian Gate (4102): 9 - 9 
+[MPC] Three World Trade Center (4111): 3 - 3 
+[MPC] Modern Office Complex (4116): 2 - 2 
+[MPC] Bridge decorations (4117): 4 - 4 
+[MPC] Vincom Landmark 81 (New) (4147): 10 - 10 
+[MPC] Expressway Pack (4148): 2 - 2 
+[MPC] Moscow-City (4161): 2 - 2 
+[MPC] The tower of Omni's eye (4177): 7 - 7 
+[MPC] National Assembly Building (4214): 10 - 10 
+[MPC] Quang Ninh Dolphins Center (4227): 11 - 11 
+[MPC] Dome of the Rock (4230): 9 - 9 
+[MPC] Phenikaa University (4241): 7 - 7 
+[MPC] Flag Tower of Hanoi (4244): 9 - 9 
+[MPC] Vincom Center Dong Khoi (4254): 7 - 7 
+[MPC] Soviet Apartments (4258): 12 - 12 
+[MPC] Independence Palace (4260): 6 - 6 
+[MPC] The Sun Tower (4272): 3 - 3 
+[MPC] Bitexco Financial Tower (4273): 10 - 10 
+[MPC] Brazilian Independence Square (4279): 2 - 2 
+[MPC] Danang Administrative Center (4298): 5 - 5 
+[MPC] Notre-Dame Cathedral Basilica (4303): 6 - 6 
+[MPC] Auto Changing Color Beacons 2 (4314): 5 - 5 
+[MPC] Park Cemetery (4317): 7 - 7 
+[MPC] FPT Tower (4325): 5 - 5 
+[MPC] Ministry of Public Security (4331): 5 - 5 
+[MPC] Soviet Apartment Pack (1.6) (4333): 23 - 23 
+[MPC] Albraj Al-Saltanet (4340): 2 - 2 
+[MPC] Suburban Living (4342): 6 - 6 
+[MPC] Novotel Hanoi hotel (4394): 7 - 7 
+[MPC] Tree pack (4409): 36 - 36 
+[MPC] Obelisk Carlos J. Finlay (4418): 8 - 8 
+[MPC] General Hospital (4424): 8 - 8 
+[MPC] Soviet Building Pack Expansion (4427): 2 - 2 
+[MPC] Asian park (4433): 3 - 3 
+[MPC] Asian shrine (4435): 4 - 4 
+[MPC] Chinese Restaurant (4436): 5 - 5 
+[MPC] Expo Center (4438): 6 - 6 
+[MPC] S.A Academy of Fine Arts (4451): 23 - 23 
+[MPC] Vietcombank Tower (New) (4455): 2 - 2 
+[MPC] Japanese pack ?? (4457): 12 - 12 
+[MPC] Philippine Road Pack (update) (4458): 3 - 3 
+[MPC] Cat Statues (4474): 2 - 2 
+[MPC] Metrotaxis, de Cuba. (Gacelas) (4490): 27 - 27 
+[MPC] Oriental Temple (4499): 3 - 3 
+[MPC] Green roof mall (4501): 5 - 5 
+[MPC] TTT Building pack (4505): 4 - 4 
+[MPC] Ginkgo (4520): 2 - 2 
+[MPC] Persimmon (4521): 2 - 2 
+[MPC] Nanjing Zifeng Tower (4539): 2 - 2 
+[MPC] Game building (4554): 2 - 2 
+[MPC] Birch tree (4557): 2 - 2 
+[MPC] Roadside tree (4558): 3 - 3 
+[MPC] Wuhan Buildings (4599): 2 - 2 
+[MPC] Nature Pack (4612): 7 - 7 
+[MPC] Monumento Nac. a la Bandera (4614): 8 - 8 
+[MPC] Estadio Roberto Meléndez (4656): 5 - 5 
+[MPC] Seodaemun Prison History Hall (4661): 2 - 2 
+[MPC] Austrian Buildings (4677): 17 - 17 
+[MPC] Torres Dolfines (4686): 6 - 6 
+[MPC] Edificios de Nueva York (4688): 2 - 2 
+[MPC] Alexander Column (4701): 4 - 4 
+[MPC] Ministerio de Obras Públicas (4705): 4 - 4 
+[MPC] Boats and Yatchs (4723): 2 - 2 
+[MPC] Dionysus Twin Skyscrapers (4738): 25 - 25 
+[MPC] Akasaka Brick Residence (4778): 2 - 2 
+[MPC] Prime Tower Zürich (4793): 5 - 5 
+[MPC] parking Building (4806): 2 - 2 
+[MPC] Japanese Style Houses #1 (4840): 2 - 2 
+[MPC] Casino City Center Rosario (4843): 2 - 2 
+[MPC] Alderdieder, by Monte. (4904): 2 - 2 
+[MPC] Plaza de la Revolución (4922): 12 - 12 
+[MPC] Spruce Trees (4929): 9 - 9 
+[MPC] HotelGrandTown - v2.0 (4949): 33 - 33 
+[MPC] Liberty State Building (4952): 4 - 4 
+[MPC] Residencials apartaments (4987): 13 - 13 
+[MPC] Yacht Club (5021): 3 - 3 
+[MPC] Ben Thanh Market (5028): 10 - 10 
+[MPC] re:industry (5072): 6 - 6 
+[MPC] Long Island Residentials (5078): 2 - 2 
+[MPC] Wall Street Office (5080): 7 - 7 
+[MPC] Colosseum (5082): 3 - 3 
+[MPC] Rubber Duck (sculpture) (5087): 2 - 2 
+[MPC] Vienna Int. Airport (5095): 2 - 2 
+[MPC] Bad Dog (5097): 2 - 2 
+[MPC] Bedford Point Tower (5103): 5 - 5 
+[MPC] Boeing 777-300ER (5128): 4 - 4 
+[MPC] Aurora Gardens, Recife (5155): 3 - 3 
+[MPC] 33 Thomas Street (5174): 2 - 2 
+[MPC] FastRoad (5209): 11 - 11 
+[MPC] Dubai Frame (5227): 5 - 5 
+[MPC] Underground Parking (5230): 2 - 2 
+[MPC] Bank of Brazil (5253): 6 - 6 
+[MPC] Neon houses for Avenue Pt.2 (5275): 2 - 2 
+[MPC] Tencent games HQ (5278): 5 - 5 
+[MPC] Site of 1st National Congress (5328): 6 - 6 
+[MPC] Excel Skytowers (5369): 6 - 6 
+[MPC] A VIETNAMESE TWIN TUBE HOUSE (5378): 7 - 7 
+[MPC] Petrovietnam Tower, Ha Noi (5382): 7 - 7 
+[MPC] Space Needle (5388): 2 - 2 
+[MPC] fire department V1.0 (5404): 2 - 2 
+[MPC] The Q1 (5407): 2 - 2 
+[MPC] New York Buildings Pack 1 (5414): 11 - 11 
+[MPC] Address Beach Resort (5438): 4 - 4 
+[MPC] Saigon Centre tower 1 (5447): 7 - 7 
+[MPC] Deutsches Haus HCM City (5450): 3 - 3 
+[MPC] National Convention Center (5463): 3 - 3 
+[MPC] BSA Twin Towers (5483): 3 - 3 
+[MPC] Ashlepio Condo (5488): 8 - 8 
+[MPC] 4x4 residential building (5492): 12 - 12 
+[MPC] City Planning Centre (5502): 4 - 4 
+[MPC] Hard Rock Stadium (5504): 2 - 2 
+[MPC] Palace of the Republic (5512): 2 - 2 
+[MPC] 5x5 commercial building (5519): 2 - 2 
+[MPC] Holt Arena (5522): 4 - 4 
+[MPC] Saigon Trade Center (5538): 9 - 9 
+[MPC] Presidential Palace, Hanoi (5579): 8 - 8 
+[MPC] Chinese residential Build III (5591): 3 - 3 
+[MPC] JW Marriott Hotel Hanoi (5596): 3 - 3 
+[MPC] Color terrain and symbols (5617): 6 - 6 
+[MPC] Lux city (5618): 7 - 7 
+[MPC] Large 4x4 school (5653): 5 - 5 
+[MPC] Warsaw Trade Tower (5655): 8 - 8 
+[MPC] Equador and Peru buildings (5671): 24 - 24 
+[MPC] Atmosphere shaders (5695): 11 - 11 
+[MPC] 40 Wall Street (5729): 4 - 4 
+[MPC] The MARQ (5777): 13 - 13 
+[MPC] Sea Wharf (5798): 14 - 14 
+[MPC] Heydar Aliyev Center (5799): 2 - 2 
+[MPC] Astra Tower (5849): 3 - 3 
+[MPC] Cansla Forest South Pangyo (5853): 2 - 2 
+[MPC] Capital Place (5863): 2 - 2 
+[MPC] Little pond (5875): 4 - 4 
+[MPC] THE SHARD (5892): 5 - 5 
+[MPC] Jakarta Cathedral (5899): 2 - 2 
+[MPC] Ipe Park (5900): 5 - 5 
+[MPC] Tupã Tower's (5918): 9 - 9 
+[MPC] Residential Extension (5946): 9 - 9 
+[MPC] Hotel Habana Libre (5949): 6 - 6 
+[MPC] Parliament of Budapest (5950): 5 - 5 
+[MPC] international Financial Center (5995): 5 - 5 
+[MPC] Water pump facility (5996): 10 - 10 
+[MPC] LIM2 (remake) (6004): 5 - 5 
+[MPC] K?be Customs Display Corner (6010): 5 - 5 
+[MPC] Sloth Bakery (6015): 6 - 6 
+[MPC] Dacheng Hall (6029): 3 - 3 
+[MPC] De Rotterdam (6033): 5 - 5 
+[MPC] Estella tower (6045): 3 - 3 
+[MPC] Cinerama  Movie Theatre (6049): 5 - 5 
+[MPC] Copenhagen historica buildings (6070): 16 - 16 
+[MPC] Billboards (6071): 6 - 6 
+[MPC] The Wedding Tower (6083): 4 - 4 
+[MPC] Da Vinci Tower Jakarta (6086): 2 - 2 
+[MPC] Lusail Stadium (6133): 9 - 9 
+[MPC] Soviet Propaganda Board (6169): 27 - 27 
+[MPC] Hard Rock Cafe (6170): 4 - 4 
+[MPC] Home Insurance Plaza (6193): 2 - 2 
+[MPC] Cottages Of Exception (6200): 5 - 5 
+[MPC] Boston Public Library (6214): 3 - 3 
+[MPC] Soviet Kiosks (6232): 9 - 9 
+[MPC] Soviet Posters (Update) (6249): 16 - 16 
+[MPC] Vilnius Hall of Press (6262): 2 - 2 
+[MPC] Seoul Metropolitan City Bus (6276): 6 - 6 
+[MPC] The Icon (6299): 3 - 3 
+[MPC] Tokyo Torch Tokiwabashi Tower (6301): 3 - 3 
+[MPC] brussels buildings (6308): 4 - 4 
+[MPC] TV LED Billboard (6359): 5 - 5 
+[MPC] CCTV Headquarters (6392): 6 - 6 
+[MPC] Wuhan Greenland Center (6393): 3 - 3 
+[MPC] Toranomon Hills Station Tower (6403): 2 - 2 
+[MPC] Onomichi City Office (6463): 2 - 2 
+[MPC] Russo-Chinese Bank, Shanghai (6467): 2 - 2 
+[MPC] Botanical center (6521): 5 - 5 
+[MPC] Robotics laboratory (6524): 2 - 2 
+[MPC] The Edge (6570): 5 - 5 
+[MPC] New National Gallery Berlin (6575): 2 - 2 
+[MPC] World Trade Center (6576): 6 - 6 
+[MPC] San Francisco buildings pack (6578): 2 - 2 
+[MPC] PacificCenturyPlaceMarunouchi (6595): 6 - 6 
+[MPC] The Maj Dago (6615): 2 - 2 
+[MPC] Futuristic Residential 0.1 (6681): 2 - 2 
+[MPC] Green Mall[zh]???? (6719): 4 - 4 
+[MPC] Honda Motor Headquarters (6722): 2 - 2 
+[MPC] Super Leche Restaurant (6723): 2 - 2 
+[MPC] NTT Docomo Yoyogi Building (6725): 2 - 2 
+[MPC] Weasel Plaza (6731): 2 - 2 
+[MPC] Hollywood Roosevelt Hotel (6750): 2 - 2 
+[MPC] Moscow historical buildings (6854): 5 - 5 
+[MPC] Mokoko Seeds from Lost Ark (6869): 18 - 18 
+[MPC] Matrix ONE Laboratory (6884): 2 - 2 
+[MPC] A Highschool (6898): 2 - 2 
+[MPC] The Landmark (VN) (6899): 5 - 5 
+[MPC] Havana Capitol (6910): 6 - 6 
+[MPC] Nissay Marunouchi Building (6920): 3 - 3 
+[MPC] SM Quiapo (6921): 4 - 4 
+[MPC] Jakarta International Stadium (6960): 3 - 3 
+[MPC] Commercial Reco (6974): 3 - 3 
+[MPC] Soviet Buildings 2 (7607): 2 - 2 
+[MPC] Moai statues (7608): 5 - 5 
+[MPC] Surabaya Statue (7644): 2 - 2 
+[MPC] Christian Church (7672): 3 - 3 
+[MPC] PBZ bank (Hr) (7693): 6 - 6 
+[MPC] Modern (euro) building pack (7696): 7 - 7 
+[MPC] Eastern Columbia Building (7704): 2 - 2 
+[MPC] Housing Complex (Indonesian) (7705): 2 - 2 
+[MPC] Capital One Tower New Orleans (7709): 2 - 2 
+[MPC] The ECOD (7710): 3 - 3 
+[MPC] Restaurant "Mayak" (7711): 2 - 2 
+[MPC] Animated Fountains (7713): 2 - 2 
+[MPC] Lilac Bushes (7714): 2 - 2 
+[MPC] Generic American Art Deco (7716): 3 - 3 
+[MPC] 4x4 residential building (7730): 2 - 2 
+[MPC] Just Trees (7741): 2 - 2 
+[MPC] Techno Park Tower (Vinhomes) (7746): 13 - 13 
+[MPC] Forest Park (7749): 3 - 3 
+[MPC] Beach People in Water Decos (7766): 2 - 2 
+[MPC] Hammer And Sickle (7771): 5 - 5 
+[MPC] Flaming Apartment (7805): 5 - 5 
+[MPC] Palace Potockyh (7825): 3 - 3 
+[MPC] European Buildings Expansion (7905): 2 - 2 
+[GameStack] Enter stage LoadingStage
+[Loading] Warm-up
+[Steam] stats received
+[Steam] validate ticket
+[LoadingStage task time] Task Warm-up took 70
+[Social] Shut down
